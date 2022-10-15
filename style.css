@@ -1,4 +1,4 @@
-  * {
+   * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -386,7 +386,7 @@ h3 {
 
 .title-text h1 {
     font-size: 40px;
-    color: #1ca700;
+    color: red;
 }
 
 .copyright p {
